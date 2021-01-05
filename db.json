@@ -1,0 +1,103 @@
+{
+  "users":[{
+  "id": 1,
+  "username": "gducarel0",
+  "name": "Gussy Ducarel",
+  "job": "Office Assistant IV"
+}, {
+  "id": 2,
+  "username": "sjouannisson1",
+  "name": "Sabina Jouannisson",
+  "job": "Environmental Specialist"
+}, {
+  "id": 3,
+  "username": "kgori2",
+  "name": "Kiele Gori",
+  "job": "Compensation Analyst"
+}, {
+  "id": 4,
+  "username": "ntadlow3",
+  "name": "Nichols Tadlow",
+  "job": "Registered Nurse"
+}, {
+  "id": 5,
+  "username": "fcavnor4",
+  "name": "Fredra Cavnor",
+  "job": "Media Manager IV"
+}, {
+  "id": 6,
+  "username": "ddosdill5",
+  "name": "Darlleen Dosdill",
+  "job": "Occupational Therapist"
+}, {
+  "id": 7,
+  "username": "ybenz6",
+  "name": "Yorgo Benz",
+  "job": "Safety Technician I"
+}, {
+  "id": 8,
+  "username": "cfarr7",
+  "name": "Cristy Farr",
+  "job": "Social Worker"
+}, {
+  "id": 9,
+  "username": "npoizer8",
+  "name": "Nisse Poizer",
+  "job": "Account Executive"
+}, {
+  "id": 10,
+  "username": "tdrezzer9",
+  "name": "Trisha Drezzer",
+  "job": "Environmental Tech"
+}, {
+  "id": 11,
+  "username": "lcollomossea",
+  "name": "Lidia Collomosse",
+  "job": "Staff Scientist"
+}, {
+  "id": 12,
+  "username": "ekembleb",
+  "name": "Edik Kemble",
+  "job": "Civil Engineer"
+}, {
+  "id": 13,
+  "username": "mfurphyc",
+  "name": "Mirelle Furphy",
+  "job": "Junior Executive"
+}, {
+  "id": 14,
+  "username": "eshackladyd",
+  "name": "Elijah Shacklady",
+  "job": "Senior Developer"
+}, {
+  "id": 15,
+  "username": "rbimse",
+  "name": "Ruddy Bims",
+  "job": "Media Manager I"
+}, {
+  "id": 16,
+  "username": "msyversenf",
+  "name": "Mireille Syversen",
+  "job": "Business Systems Development Analyst"
+}, {
+  "id": 17,
+  "username": "mdeg",
+  "name": "Marja De Giorgi",
+  "job": "Senior Sales Associate"
+}, {
+  "id": 18,
+  "username": "telstonh",
+  "name": "Tanney Elston",
+  "job": "Web Designer II"
+}, {
+  "id": 19,
+  "username": "dnoriegai",
+  "name": "Daveen Noriega",
+  "job": "Sales Associate"
+}, {
+  "id": 20,
+  "username": "dgiacomassoj",
+  "name": "Darcy Giacomasso",
+  "job": "Safety Technician IV"
+}]
+}
